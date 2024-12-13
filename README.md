@@ -8,3 +8,5 @@ B) Modelling using Lucidchart. Reference : Datawarehouse Toolkit by Ralph Kimbal
 C) Data Cleaning and Analysis on Nashville Housing Dataset
 
 D) Solution to 8 Weeks of SQL by Danny : https://8weeksqlchallenge.com/getting-started/
+
+E) Solutions to Advent of SQL 
