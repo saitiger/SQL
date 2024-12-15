@@ -9,4 +9,4 @@ C) Data Cleaning and Analysis on Nashville Housing Dataset
 
 D) Solution to 8 Weeks of SQL by Danny : https://8weeksqlchallenge.com/getting-started/
 
-E) Solutions to Advent of SQL 
+E) Solutions to Advent of SQL : https://www.sqlcalendar.com/app/advent-calendar
