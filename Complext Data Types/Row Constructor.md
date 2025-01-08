@@ -53,6 +53,7 @@ JOIN player_history ph ON ps.player_name = ph.player_name;
 Output 
 player_name  | records
 -------------+----------------------------------------
+
 John Smith   | (Amateur, false, 2023-01-01, 2023-12-31)
 
 John Smith   | (Rookie, true, 2024-01-01, 2024-01-01)
