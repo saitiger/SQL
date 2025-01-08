@@ -1,7 +1,7 @@
--- A ROW expression allows you to construct ROW values, which can represent anonymous records, 
+A ROW expression allows you to construct ROW values, which can represent anonymous records, 
 specific table row types, or custom composite types
 
--- The ROW constructor creates a composite value (like a single record or row) from multiple individual values. 
+The ROW constructor creates a composite value (like a single record or row) from multiple individual values. 
 It's similar to creating a tuple or struct in other programming languages.
 
 Example : 
@@ -21,6 +21,7 @@ WITH player_status AS (
         true as is_active,
         '2024-01-01' as current_season
 ),
+
 player_history AS (
     SELECT 
         'John Smith' as player_name,
@@ -53,6 +54,7 @@ Output
 player_name  | records
 -------------+----------------------------------------
 John Smith   | (Amateur, false, 2023-01-01, 2023-12-31)
+
 John Smith   | (Rookie, true, 2024-01-01, 2024-01-01)
 
 The first ROW shows John's historical status as an Amateur player
