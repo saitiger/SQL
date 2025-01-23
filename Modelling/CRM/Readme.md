@@ -1,0 +1,3 @@
+- Queries
+- Data Warehouse design
+- Assumptions 
