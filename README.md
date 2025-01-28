@@ -2,8 +2,11 @@ A) Contains Solutions for SQL questions solved on the following platforms :
   1) NamasteSQL
   2) DataLemur
   3) Big Tech Interviews
+  4) Analystbuilder
+  
+B) Modeling : 1. Data Warehouse Modeling 2. Data Modeling using Lucidchart
 
-B) Modelling using Lucidchart. Reference : Datawarehouse Toolkit by Ralph Kimball
+Reference : Datawarehouse Toolkit by Ralph Kimball
 
 C) Data Cleaning and Analysis on Nashville Housing Dataset
 
